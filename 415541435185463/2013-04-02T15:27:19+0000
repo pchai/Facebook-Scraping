@@ -1,0 +1,235 @@
+{"post":{
+    "created_time": "2013-04-02T15:27:19+0000",
+    "id": "415541435185463_464954033577536",
+    "likes": {
+        "count": 51
+    },
+    "message": "\u0628\u0627\u0632\u062f\u06cc\u062f \u0627\u0632 \u0641\u0639\u0627\u0644\u06cc\u062a\u0647\u0627\u06cc \u0645\u0647\u0646\u062f\u0633\u06cc \u0631\u0632\u0645\u06cc \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u0627\u06cc\u0627\u0645 \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+    "picture": "http://photos-e.ak.fbcdn.net/hphotos-ak-ash3/164264_464954016910871_193998818_s.jpg",
+    "type": "photo",
+    "updated_time": "2013-04-03T00:25:08+0000"
+},"comments":{
+    "data": [
+        {
+            "created_time": "2013-04-03T00:25:08+0000",
+            "from": {
+                "id": "100004504928035",
+                "name": "Navid Ara"
+            },
+            "id": "464954016910871_1351645",
+            "message": "\u062e\u062f\u0627 \u067e\u062f\u0631 \u0634\u0627\u0647 \u0631\u0648 \u0628\u06cc\u0627\u0645\u0631\u0632\u0647 \u06a9\u0647 \u0627\u06cc\u0646\u0648 \u06af\u0630\u0627\u0634\u062a \u062a\u0627 \u0634\u0645\u0627 \u0645\u0647\u0646\u062f\u0633\u06cc \u06a9\u0646\u06cc"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "after": "MQ==",
+            "before": "MQ=="
+        }
+    }
+}"likes":{
+    "data": [
+        {
+            "id": "100004657416321",
+            "name": "Za HRa"
+        },
+        {
+            "id": "100002455723182",
+            "name": "Mamad Sh"
+        },
+        {
+            "id": "100000114323216",
+            "name": "Ismail Hizburohman"
+        },
+        {
+            "id": "100003831255842",
+            "name": "Ali Ma"
+        },
+        {
+            "id": "100001940767110",
+            "name": "Mohammad Ali"
+        },
+        {
+            "id": "100003158879177",
+            "name": "Zoh Reh"
+        },
+        {
+            "id": "100004627476670",
+            "name": "\u0634\u0647\u06cc\u062f \u06af\u0645\u0646\u0627\u0645"
+        },
+        {
+            "id": "100001562273275",
+            "name": "Khashayar Sanmari"
+        },
+        {
+            "id": "100004590272005",
+            "name": "Safireharaz Ir"
+        },
+        {
+            "id": "100003327759548",
+            "name": "Morteza BaBadi"
+        },
+        {
+            "id": "100004350211576",
+            "name": "Mehdi Safarpour"
+        },
+        {
+            "id": "100003711427463",
+            "name": "M Saeed Omid"
+        },
+        {
+            "id": "100002260734305",
+            "name": "Ban Rani Taibi"
+        },
+        {
+            "id": "100000348272001",
+            "name": "Joshua Carrillo"
+        },
+        {
+            "id": "100002315538809",
+            "name": "Mili Javan"
+        },
+        {
+            "id": "100000361039915",
+            "name": "Muharrem Atalay"
+        },
+        {
+            "id": "100001471615769",
+            "name": "Huda Saengwimann"
+        },
+        {
+            "id": "100002984944489",
+            "name": "Hossein Ahmadi"
+        },
+        {
+            "id": "100000842997215",
+            "name": "Ali Shadad"
+        },
+        {
+            "id": "100003877486586",
+            "name": "Masoud Ke"
+        },
+        {
+            "id": "100003323496344",
+            "name": "Amir Ebrahimi"
+        },
+        {
+            "id": "100002643181351",
+            "name": "Amirhosein Rafati"
+        },
+        {
+            "id": "100005639826876",
+            "name": "Ali Abbas"
+        },
+        {
+            "id": "100003868876417",
+            "name": "AmirHossein Nabi"
+        },
+        {
+            "id": "100003372485295",
+            "name": "Royal Mustafayev"
+        },
+        {
+            "id": "100005245597747",
+            "name": "Mohsen Hosseini"
+        },
+        {
+            "id": "100000390713653",
+            "name": "Lezgiev Leki"
+        },
+        {
+            "id": "100004404003037",
+            "name": "Ali Neshat"
+        },
+        {
+            "id": "100002878276796",
+            "name": "Monte Kreest"
+        },
+        {
+            "id": "100005038543021",
+            "name": "Ali Rezai"
+        },
+        {
+            "id": "100004176704000",
+            "name": "Noh\u00e9 Hzb"
+        },
+        {
+            "id": "100002886267169",
+            "name": "Yavar Tamari"
+        },
+        {
+            "id": "100001616134361",
+            "name": "Naeem Hussain"
+        },
+        {
+            "id": "100000350729124",
+            "name": "Javid Gholamrezapour"
+        },
+        {
+            "id": "100004368876622",
+            "name": "Gazi Saki"
+        },
+        {
+            "id": "100001718097241",
+            "name": "Sayyed Abbas Mousavi"
+        },
+        {
+            "id": "100003846075348",
+            "name": "Ghulam Hassan"
+        },
+        {
+            "id": "100005348016788",
+            "name": "Yusuf Boutros"
+        },
+        {
+            "id": "100000049356729",
+            "name": "Seyed Parsa"
+        },
+        {
+            "id": "540291925",
+            "name": "Hussein Akil"
+        },
+        {
+            "id": "100003480453292",
+            "name": "Milad Shahsavari"
+        },
+        {
+            "id": "100000008259561",
+            "name": "Mohammad Riaz Bangash"
+        },
+        {
+            "id": "100002509534478",
+            "name": "Rohil Fida"
+        },
+        {
+            "id": "100002186467197",
+            "name": "Reza Dizay"
+        },
+        {
+            "id": "100002213228035",
+            "name": "Sirous Khalili"
+        },
+        {
+            "id": "100004082975697",
+            "name": "E'lan Noor"
+        },
+        {
+            "id": "100004180472585",
+            "name": "Ali Irani"
+        },
+        {
+            "id": "100002200183937",
+            "name": "\u0627\u0639\u062c\u0627\u0632 \u062d\u0633\u06cc\u0646"
+        },
+        {
+            "id": "100002259483989",
+            "name": "Mohamad Hasan Sa"
+        },
+        {
+            "id": "100001938240020",
+            "name": "Mojtaba Abdi"
+        }
+    ],
+    "paging": {
+        "next": "https://graph.facebook.com/415541435185463_464954033577536/likes?limit=50000&fields=name,id&access_token=174501439374420|wSEWGTm0qQG-Dr5DUlOTmTL2WOA&offset=50000&__after_id=100001938240020"
+    }
+}}

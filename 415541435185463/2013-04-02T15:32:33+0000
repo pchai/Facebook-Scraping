@@ -1,0 +1,200 @@
+{"post":{
+    "created_time": "2013-04-02T15:32:33+0000",
+    "id": "415541435185463_464955603577379",
+    "likes": {
+        "count": 39
+    },
+    "message": "\u0633\u0627\u0644 \u06f9\u06f2 \u0628\u0631\u0627\u0628\u0631 \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u0627\u0645\u06cc\u062f\u0648\u0627\u0631\u0627\u0646\u0647\u200c\u0627\u06cc \u0643\u0647 \u0628\u0647 \u0644\u0637\u0641 \u067e\u0631\u0648\u0631\u062f\u06af\u0627\u0631 \u0648 \u0647\u0645\u062a \u0645\u0631\u062f\u0645 \u0645\u0633\u0644\u0645\u0627\u0646 \u0628\u0631\u0627\u06cc \u0645\u0627 \u062a\u0631\u0633\u06cc\u0645 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0633\u0627\u0644 \u067e\u06cc\u0634\u0631\u0641\u062a \u0648 \u062a\u062d\u0631\u0643 \u0648 \u0648\u0631\u0632\u06cc\u062f\u06af\u06cc \u0645\u0644\u062a \u0627\u06cc\u0631\u0627\u0646 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f\u061b \u0646\u0647 \u0628\u0647 \u0627\u06cc\u0646 \u0645\u0639\u0646\u0627 \u0643\u0647 \u062f\u0634\u0645\u0646\u06cc\u0650 \u062f\u0634\u0645\u0646\u0627\u0646 \u0643\u0627\u0633\u062a\u0647 \u062e\u0648\u0627\u0647\u062f \u0634\u062f\u060c \u0628\u0644\u0643\u0647 \u0628\u0647 \u0627\u06cc\u0646 \u0645\u0639\u0646\u0627 \u0643\u0647 \u0622\u0645\u0627\u062f\u06af\u06cc \u0645\u0644\u062a \u0627\u06cc\u0631\u0627\u0646 \u0628\u06cc\u0634\u062a\u0631 \u0648 \u062d\u0636\u0648\u0631 \u0627\u0648 \u0645\u0624\u062b\u0631\u062a\u0631 \u0648 \u0633\u0627\u0632\u0646\u062f\u06af\u06cc \u0622\u06cc\u0646\u062f\u0647\u200c\u06cc \u0627\u06cc\u0646 \u0645\u0644\u062a \u0628\u0647 \u062f\u0633\u062a \u062e\u0648\u062f\u0634\u0627\u0646 \u0648 \u0628\u0627 \u0647\u0645\u0651\u062a\u0650 \u0628\u0627\u0643\u0641\u0627\u06cc\u062a \u062e\u0648\u062f\u0634\u0627\u0646 \u0627\u0646\u200c\u0634\u0627\u0621\u0627\u0644\u0644\u0647 \u0628\u0647\u062a\u0631 \u0648 \u0627\u0645\u06cc\u062f\u0628\u062e\u0634\u200c\u062a\u0631 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.",
+    "picture": "http://photos-g.ak.fbcdn.net/hphotos-ak-ash3/523579_464955586910714_1261283112_s.jpg",
+    "type": "photo",
+    "updated_time": "2013-04-05T08:34:07+0000"
+},"comments":{
+    "data": [
+        {
+            "created_time": "2013-04-03T00:30:42+0000",
+            "from": {
+                "id": "100004504928035",
+                "name": "Navid Ara"
+            },
+            "id": "464955586910714_1351656",
+            "message": "\u06cc\u06a9 \u062a\u06a9\u0647 \u0646\u0627\u0646 \u062e\u0634\u06a9 \u0628\u0627 \u062f\u0644\u06cc \u062e\u0648\u0634\r\n\u0631\u0627\u0633\u062a\u06cc \u0633\u06cc\u062f \u0639\u0644\u06cc \u062a\u0648 \u0646\u0647  \u0646\u0648\u0646 \u062e\u0634\u06a9 \u0631\u0648 \u0628\u0631\u0627\u06cc \u0645\u0627 \u06af\u0630\u0627\u0634\u062a\u06cc \u0646\u0647 \u062f\u0644 \u062e\u0648\u0634 \u0631\u0648"
+        },
+        {
+            "created_time": "2013-04-05T08:34:07+0000",
+            "from": {
+                "id": "100005509663846",
+                "name": "Poorya Fattahi"
+            },
+            "id": "464955586910714_1356753",
+            "message": "labeyk"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "after": "Mg==",
+            "before": "MQ=="
+        }
+    }
+}"likes":{
+    "data": [
+        {
+            "id": "100003147688932",
+            "name": "Reza Salehbaigi"
+        },
+        {
+            "id": "100004657416321",
+            "name": "Za HRa"
+        },
+        {
+            "id": "100002455723182",
+            "name": "Mamad Sh"
+        },
+        {
+            "id": "100003831255842",
+            "name": "Ali Ma"
+        },
+        {
+            "id": "100003489349526",
+            "name": "Ibrahim Anas"
+        },
+        {
+            "id": "100001940767110",
+            "name": "Mohammad Ali"
+        },
+        {
+            "id": "100003158879177",
+            "name": "Zoh Reh"
+        },
+        {
+            "id": "100005509663846",
+            "name": "Poorya Fattahi"
+        },
+        {
+            "id": "100004627476670",
+            "name": "\u0634\u0647\u06cc\u062f \u06af\u0645\u0646\u0627\u0645"
+        },
+        {
+            "id": "100001562273275",
+            "name": "Khashayar Sanmari"
+        },
+        {
+            "id": "100003327759548",
+            "name": "Morteza BaBadi"
+        },
+        {
+            "id": "100004350211576",
+            "name": "Mehdi Safarpour"
+        },
+        {
+            "id": "100003711427463",
+            "name": "M Saeed Omid"
+        },
+        {
+            "id": "100003877606592",
+            "name": "Sed Sadegh"
+        },
+        {
+            "id": "100002260734305",
+            "name": "Ban Rani Taibi"
+        },
+        {
+            "id": "100003983058213",
+            "name": "Sajjad Joyandeh"
+        },
+        {
+            "id": "100000361039915",
+            "name": "Muharrem Atalay"
+        },
+        {
+            "id": "100002984944489",
+            "name": "Hossein Ahmadi"
+        },
+        {
+            "id": "100002908667979",
+            "name": "Farhad Keikhah Aria"
+        },
+        {
+            "id": "100003868876417",
+            "name": "AmirHossein Nabi"
+        },
+        {
+            "id": "1832122788",
+            "name": "Mohammad Moussa Farhat"
+        },
+        {
+            "id": "100003372485295",
+            "name": "Royal Mustafayev"
+        },
+        {
+            "id": "100000390713653",
+            "name": "Lezgiev Leki"
+        },
+        {
+            "id": "100002878276796",
+            "name": "Monte Kreest"
+        },
+        {
+            "id": "100005038543021",
+            "name": "Ali Rezai"
+        },
+        {
+            "id": "100002760842319",
+            "name": "Ali Jammool"
+        },
+        {
+            "id": "767845339",
+            "name": "Sadiqatul Mardhiyyah"
+        },
+        {
+            "id": "100004176704000",
+            "name": "Noh\u00e9 Hzb"
+        },
+        {
+            "id": "100001047494977",
+            "name": "Mojtaba Barzegari"
+        },
+        {
+            "id": "100005348016788",
+            "name": "Yusuf Boutros"
+        },
+        {
+            "id": "100000049356729",
+            "name": "Seyed Parsa"
+        },
+        {
+            "id": "540291925",
+            "name": "Hussein Akil"
+        },
+        {
+            "id": "100003480453292",
+            "name": "Milad Shahsavari"
+        },
+        {
+            "id": "100004082975697",
+            "name": "E'lan Noor"
+        },
+        {
+            "id": "100002509534478",
+            "name": "Rohil Fida"
+        },
+        {
+            "id": "100000008259561",
+            "name": "Mohammad Riaz Bangash"
+        },
+        {
+            "id": "1592182673",
+            "name": "Ali Derakhshan"
+        },
+        {
+            "id": "100002929636025",
+            "name": "Shima Radikal"
+        },
+        {
+            "id": "100002186467197",
+            "name": "Reza Dizay"
+        }
+    ],
+    "paging": {
+        "next": "https://graph.facebook.com/415541435185463_464955603577379/likes?limit=50000&fields=name,id&access_token=174501439374420|wSEWGTm0qQG-Dr5DUlOTmTL2WOA&offset=50000&__after_id=100002186467197"
+    }
+}}
