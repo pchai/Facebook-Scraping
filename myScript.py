@@ -21,7 +21,6 @@ def write_post(post, f):
 			res["shares"] = {"count": post["shares"]["count"]}
 		if "message" in post:
 			res["message"] = post["message"]
-			print res["message"]
 		if "type" in post:
 			res["type"] = post["type"]
 		if "created_time" in post:
