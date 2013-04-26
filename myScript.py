@@ -34,8 +34,6 @@ def write_post(post, f):
 			res["updated_time"] = post["updated_time"]
 	except KeyError:
 		print "KeyError writing post"
-		raise
-
 	f.write(json.dumps(res, sort_keys=True,
 						indent=4, separators=(',', ': ')))
 
@@ -46,8 +44,7 @@ def make_request(url, params):
 						indent=4, separators=(',', ': '))
 	except:
 		print sys.exc_info()[0]
-		resp = '{"Error":"Error detected by my scirpt"}'
-		raise
+		resp = '{"Error":"Error detected by scraping scirpt"}'
 	data = json.loads(resp)
 	return data
 
@@ -59,50 +56,9 @@ def get_data(url):
 					indent=4, separators=(',', ': '))
 	except:
 		print sys.exc_info()[0]
-		resp = '{"Error":"Error detected by my scirpt"}'
-		raise
+		resp = '{"Error":"Error detected by scraping scirpt"}'
 	data = json.loads(resp)
 	return data
-
-def write_data(data, f):
-	print "Enter wrtie Likes"
-	flag = False
-	if "data" in data:
-		for d in data["data"]:
-			if flag:
-				fw.write(",")
-			pretty_write(d, fw)
-			flag = True
-	while "paging" in data and "next" in data["paging"]:
-		print "Go to next page of data"
-		for d in data["data"]:
-			fw.write(",")
-			pretty_write(d, fw)
-		data = get_data(data["paging"]["next"])
-	print "finsh write"
-'''
-def write_comments(comments, f):
-	print "Enter write comments"
-	counter = 0
-	flag = False
-	if "data" in comments:
-		for d in comments["data"]:
-			if flag:
-				fw.write(",")
-			if "comments" in d:
-				comments = d["comments"]
-				del d["comments"]
-				pretty_write(d, fw)
-				fw.write(",")
-				fw.write('"Replied Comments":')
-				fw.write("[")
-				write_comments(comments,f)
-				fw.write("]")
-
-			else:
-				pretty_write(d, fw)
-			flag = True
-'''
 
 if __name__ == "__main__":
 	access_token = "174501439374420|wSEWGTm0qQG-Dr5DUlOTmTL2WOA"
