@@ -78,6 +78,8 @@ if __name__ == "__main__":
 			posts = data["posts"]
 			while True:
 				for post in posts["data"]:
+					print post[""]
+					break
 					filename = user + "/" + post["created_time"]
 					if not os.path.exists(filename):
 						fw = open(filename, "w+")
